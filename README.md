@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0303-range-sum-query-immutable) |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0018-4sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
