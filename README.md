@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
