@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0796-rotate-string) |
 ## Array
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0018-4sum) |
+| [0151-reverse-words-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
