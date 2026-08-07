@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
 | [2413-smallest-even-multiple](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
 | ------- |
