@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2469-convert-the-temperature) |
 ## String
@@ -96,5 +97,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
