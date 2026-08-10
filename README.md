@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
+| [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0118-pascals-triangle) |
+| [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
 ## String Matching
 |  |
 | ------- |
@@ -139,4 +141,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0014-longest-common-prefix) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
