@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0303-range-sum-query-immutable) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0152-maximum-product-subarray) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
 ## String Matching
 |  |
