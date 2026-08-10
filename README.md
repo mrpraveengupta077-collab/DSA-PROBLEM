@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0041-first-missing-positive) |
+| [0088-merge-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0088-merge-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0283-move-zeroes) |
