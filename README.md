@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
