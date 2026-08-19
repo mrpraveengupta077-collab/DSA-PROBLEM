@@ -5,14 +5,12 @@ public:
         int n = nums.size();
         int ans = -1;
 
-        // Count frequency of every number
         vector<int> count(51, 0);
 
         for (int x : nums) {
             count[x]++;
         }
 
-        // Case 1: k = 1
         if (k == 1) {
 
             for (int x : nums) {
@@ -24,7 +22,6 @@ public:
             return ans;
         }
 
-        // Case 2: k = n
         if (k == n) {
             for (int x : nums) {
                 ans = max(ans, x);
@@ -33,7 +30,6 @@ public:
             return ans;
         }
 
-        // Case 3: 1 < k < n
         if (count[nums[0]] == 1) {
             ans = max(ans, nums[0]);
         }
